@@ -9765,9 +9765,9 @@
       content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
     }
 
-    .icon {
+    /* .icon {
       background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/sprites/stickerapp3sprite.png)
-    }
+    } */
 
     .icon.shape {
       height: 50px;
@@ -9825,9 +9825,9 @@
       width: 170px
     }
 
-    .icon.stickerapp-logo.halloween {
+    /* .icon.stickerapp-logo.halloween {
       background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/stickerapp/blood2.gif)
-    }
+    } */
 
     @media (min-width:1600px) {
       .icon.stickerapp-logo {
@@ -11237,7 +11237,7 @@
     }
 
     #editor-modal[data-is-orientation-landscape=false][data-is-large-mode=false] h1.modal-title {
-      background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/sprites/stickerapp.png);
+      /* background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/sprites/stickerapp.png); */
       background-position: 0 0;
       background-size: 90px;
       height: 28px;
@@ -11957,7 +11957,7 @@
     }
 
     .tool-pane .panel.panel-tool-content .tool-content.tool-content-backside-print-deal-text .deal-pattern-example {
-      background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/editor/stickerapp_pattern.png);
+      /* background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/editor/stickerapp_pattern.png); */
       background-size: cover;
       height: 100px;
       width: 100%
