@@ -16,17 +16,17 @@
               <div class="box box-shape horizontal" data-title-if-item-not-available="" id="box-shape">
 
                 <a href="javascript:void(0);" id="rect-item" class="shape item active" data-sheet-type="single" data-template-name="rect">
-                  <span class="icon shape rect"></span>
+                  <span class="iconx shape rect"></span>
                   <div class="shape-title">
                     Square </div>
                 </a>
                 <a href="javascript:void(0);" id="circle-item" class="shape item " data-sheet-type="single" data-template-name="circle">
-                  <span class="icon shape circle"></span>
+                  <span class="iconx shape circle"></span>
                   <div class="shape-title">
                     Circle </div>
                 </a>
                 <a href="javascript:void(0);" class="shape item " data-sheet-type="single" data-template-name="rounded">
-                  <span class="icon shape rounded"></span>
+                  <span class="iconx shape rounded"></span>
                   <div class="shape-title">
                     Round corners </div>
                 </a>

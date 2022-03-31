@@ -4166,14 +4166,14 @@
       outline: 0
     }
 
-    .navbar-toggle .icon-bar {
+    .navbar-toggle .iconx-bar {
       border-radius: 1px;
       display: block;
       height: 2px;
       width: 22px
     }
 
-    .navbar-toggle .icon-bar+.icon-bar {
+    .navbar-toggle .iconx-bar+.iconx-bar {
       margin-top: 4px
     }
 
@@ -4430,7 +4430,7 @@
       background-color: #ddd
     }
 
-    .navbar-default .navbar-toggle .icon-bar {
+    .navbar-default .navbar-toggle .iconx-bar {
       background-color: #888
     }
 
@@ -4548,7 +4548,7 @@
       background-color: #333
     }
 
-    .navbar-inverse .navbar-toggle .icon-bar {
+    .navbar-inverse .navbar-toggle .iconx-bar {
       background-color: #fff
     }
 
@@ -5679,7 +5679,7 @@
       }
     }
 
-    .icon {
+    .iconx {
       background-repeat: no-repeat;
       background-size: 150px;
       display: inline-block;
@@ -5689,41 +5689,41 @@
       width: 32px
     }
 
-    .icon.logo {
+    .iconx.logo {
       background-position: 0 0
     }
 
-    .icon.visa {
+    .iconx.visa {
       background-position: 0 -50px;
       height: 32px;
       width: 105px
     }
 
-    .icon.paypal {
+    .iconx.paypal {
       background-position: 0 -146px;
       height: 32px;
       width: 105px
     }
 
-    .icon.klarna {
+    .iconx.klarna {
       background-position: 0 -100px;
       height: 32px;
       width: 105px
     }
 
-    .icon.facebook {
+    .iconx.facebook {
       background-position: 0 -200px
     }
 
-    .icon.google {
+    .iconx.google {
       background-position: -50px -200px
     }
 
-    .icon.instagram {
+    .iconx.instagram {
       background-position: 0 -250px
     }
 
-    .icon.twitter {
+    .iconx.twitter {
       background-position: -100px -200px
     }
 
@@ -6092,22 +6092,22 @@
       background-color: transparent
     }
 
-    footer .social-media-icons a .icon {
+    footer .social-media-icons a .iconx {
       background-size: 222px;
       height: 40px;
       margin: 5px;
       width: 40px
     }
 
-    footer .social-media-icons a .icon.instagram {
+    footer .social-media-icons a .iconx.instagram {
       background-position: -39px -1841px
     }
 
-    footer .social-media-icons a .icon.facebook {
+    footer .social-media-icons a .iconx.facebook {
       background-position: 0 -1841px
     }
 
-    footer .social-media-icons a .icon.twitter {
+    footer .social-media-icons a .iconx.twitter {
       background-position: -78px -1841px
     }
 
@@ -6117,33 +6117,33 @@
       justify-content: center
     }
 
-    footer .payment-icons .icon {
+    footer .payment-icons .iconx {
       background-size: 90px;
       height: 18px;
       margin: 10px
     }
 
-    footer .payment-icons .icon.visa {
+    footer .payment-icons .iconx.visa {
       background-position: 0 -781px;
       width: 50px
     }
 
-    footer .payment-icons .icon.paypal {
+    footer .payment-icons .iconx.paypal {
       background-position: -22px -763px;
       width: 63px
     }
 
-    footer .payment-icons .icon.jcb {
+    footer .payment-icons .iconx.jcb {
       background-position: 0 -763px;
       width: 21px
     }
 
-    footer .payment-icons .icon.master-card {
+    footer .payment-icons .iconx.master-card {
       background-position: 0 -799px;
       width: 88px
     }
 
-    footer .payment-icons .icon.klarna {
+    footer .payment-icons .iconx.klarna {
       background-position: 0;
       background-repeat: no-repeat;
       background-size: contain;
@@ -6833,7 +6833,7 @@
         padding: 8px 15px
       }
 
-      .navbar-header .navbar-toggle .icon-bar {
+      .navbar-header .navbar-toggle .iconx-bar {
         background: #fff
       }
     }
@@ -9272,7 +9272,7 @@
       top: 0
     }
 
-    .sticker-wizard .box.box-shape .icon {
+    .sticker-wizard .box.box-shape .iconx {
       margin-top: 5px
     }
 
@@ -9765,58 +9765,58 @@
       content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
     }
 
-    /* .icon {
+    .iconx {
       background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/sprites/stickerapp3sprite.png)
-    } */
+    }
 
-    .icon.shape {
+    .iconx.shape {
       height: 50px;
       line-height: 50px;
       width: 50px
     }
 
-    .icon.rect {
+    .iconx.rect {
       background-position: 0 -300px
     }
 
-    .icon.circle {
+    .iconx.circle {
       background-position: -50px -300px
     }
 
-    .icon.rounded {
+    .iconx.rounded {
       background-position: -100px -300px
     }
 
-    .icon.path {
+    .iconx.path {
       background-position: 1px -350px
     }
 
-    .icon.sheet {
+    .iconx.sheet {
       background-position: -50px -350px
     }
 
-    .icon.cut {
+    .iconx.cut {
       background-position: -100px -350px
     }
 
-    .icon.path-s {
+    .iconx.path-s {
       background-position: 0 -400px
     }
 
-    .icon.path-m {
+    .iconx.path-m {
       background-position: -50px -400px
     }
 
-    .icon.path-l {
+    .iconx.path-l {
       background-position: -100px -400px
     }
 
-    .icon.jcb {
+    .iconx.jcb {
       background-position: 0 -503px;
       width: 42px
     }
 
-    .icon.stickerapp-logo {
+    .iconx.stickerapp-logo {
       left: 50%;
       position: absolute;
       transform: translate(-50%, -50%);
@@ -9825,44 +9825,44 @@
       width: 170px
     }
 
-    /* .icon.stickerapp-logo.halloween {
+    .iconx.stickerapp-logo.halloween {
       background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/stickerapp/blood2.gif)
-    } */
+    }
 
     @media (min-width:1600px) {
-      .icon.stickerapp-logo {
+      .iconx.stickerapp-logo {
         background-position: center -537px;
         height: 90px;
         top: 67px
       }
 
-      .nav-deflated .icon.stickerapp-logo {
+      .nav-deflated .iconx.stickerapp-logo {
         top: 54px
       }
 
-      .editor .icon.stickerapp-logo {
+      .editor .iconx.stickerapp-logo {
         background-position: center -376px;
         background-size: 62%;
         height: 70px;
         top: 42px
       }
 
-      .icon.stickerapp-logo.halloween,
-      .icon.stickerapp-logo.xmas {
+      .iconx.stickerapp-logo.halloween,
+      .iconx.stickerapp-logo.xmas {
         background-position: center 0;
         background-size: 90%;
         height: 104px;
         top: 71px
       }
 
-      .nav-deflated .icon.stickerapp-logo.halloween,
-      .nav-deflated .icon.stickerapp-logo.xmas {
+      .nav-deflated .iconx.stickerapp-logo.halloween,
+      .nav-deflated .iconx.stickerapp-logo.xmas {
         height: 96px;
         top: 53px
       }
 
-      .editor .icon.stickerapp-logo.halloween,
-      .editor .icon.stickerapp-logo.xmas {
+      .editor .iconx.stickerapp-logo.halloween,
+      .editor .iconx.stickerapp-logo.xmas {
         background-position: center 0;
         background-size: 62%;
         height: 65px;
@@ -9871,39 +9871,39 @@
     }
 
     @media (max-width:1599px) and (min-width:992px) {
-      .icon.stickerapp-logo {
+      .iconx.stickerapp-logo {
         background-position: center -424px;
         background-size: 70%;
         height: 70px;
         top: 50px
       }
 
-      .nav-deflated .icon.stickerapp-logo {
+      .nav-deflated .iconx.stickerapp-logo {
         top: 40px
       }
 
-      .editor .icon.stickerapp-logo {
+      .editor .iconx.stickerapp-logo {
         background-position: center -376px;
         background-size: 62%;
         top: 42px
       }
 
-      .icon.stickerapp-logo.halloween,
-      .icon.stickerapp-logo.xmas {
+      .iconx.stickerapp-logo.halloween,
+      .iconx.stickerapp-logo.xmas {
         background-position: center 0;
         background-size: 71%;
         height: 83px;
         top: 58px
       }
 
-      .nav-deflated .icon.stickerapp-logo.halloween,
-      .nav-deflated .icon.stickerapp-logo.xmas {
+      .nav-deflated .iconx.stickerapp-logo.halloween,
+      .nav-deflated .iconx.stickerapp-logo.xmas {
         height: 74px;
         top: 41px
       }
 
-      .editor .icon.stickerapp-logo.halloween,
-      .editor .icon.stickerapp-logo.xmas {
+      .editor .iconx.stickerapp-logo.halloween,
+      .editor .iconx.stickerapp-logo.xmas {
         background-position: center 0;
         background-size: 62%;
         height: 65px;
@@ -9912,38 +9912,38 @@
     }
 
     @media (max-width:991px) {
-      .icon.stickerapp-logo {
+      .iconx.stickerapp-logo {
         background-position: center -362px;
         background-size: 60%;
         height: 65px;
         top: 50px
       }
 
-      .nav-deflated .icon.stickerapp-logo {
+      .nav-deflated .iconx.stickerapp-logo {
         top: 42px
       }
 
-      .editor .icon.stickerapp-logo {
+      .editor .iconx.stickerapp-logo {
         background-position: center -328px;
         background-size: 54%;
         top: 35px
       }
 
-      .icon.stickerapp-logo.halloween,
-      .icon.stickerapp-logo.xmas {
+      .iconx.stickerapp-logo.halloween,
+      .iconx.stickerapp-logo.xmas {
         background-position: center 0;
         background-size: 60%;
         height: 70px;
         top: 59px
       }
 
-      .nav-deflated .icon.stickerapp-logo.halloween,
-      .nav-deflated .icon.stickerapp-logo.xmas {
+      .nav-deflated .iconx.stickerapp-logo.halloween,
+      .nav-deflated .iconx.stickerapp-logo.xmas {
         top: 45px
       }
 
-      .editor .icon.stickerapp-logo.halloween,
-      .editor .icon.stickerapp-logo.xmas {
+      .editor .iconx.stickerapp-logo.halloween,
+      .editor .iconx.stickerapp-logo.xmas {
         background-position: center 0;
         background-size: 54%;
         height: 57px;
@@ -10404,79 +10404,79 @@
       width: 1em
     }
 
-    .icon-cross:before {
+    .iconx-cross:before {
       content: "\E800"
     }
 
-    .icon-arrow-left:before {
+    .iconx-arrow-left:before {
       content: "\E801"
     }
 
-    .icon-arrow-right:before {
+    .iconx-arrow-right:before {
       content: "\E802"
     }
 
-    .icon-backward:before {
+    .iconx-backward:before {
       content: "\E803"
     }
 
-    .icon-forward:before {
+    .iconx-forward:before {
       content: "\E804"
     }
 
-    .icon-cart:before {
+    .iconx-cart:before {
       content: "\E805"
     }
 
-    .icon-info:before {
+    .iconx-info:before {
       content: "\E806"
     }
 
-    .icon-talk-bubble:before {
+    .iconx-talk-bubble:before {
       content: "\E807"
     }
 
-    .icon-check:before {
+    .iconx-check:before {
       content: "\E80C"
     }
 
-    .icon-align-left:before {
+    .iconx-align-left:before {
       content: "\E80D"
     }
 
-    .icon-align-center:before {
+    .iconx-align-center:before {
       content: "\E80E"
     }
 
-    .icon-align-right:before {
+    .iconx-align-right:before {
       content: "\E80F"
     }
 
-    .icon-drop-down:before {
+    .iconx-drop-down:before {
       content: "\E810"
     }
 
-    .icon-drop-up:before {
+    .iconx-drop-up:before {
       content: "\E811"
     }
 
-    .icon-user:before {
+    .iconx-user:before {
       content: "\E81C"
     }
 
-    .icon-car:before {
+    .iconx-car:before {
       content: "\E81D"
     }
 
-    .icon-settings:before {
+    .iconx-settings:before {
       content: "\E81E"
     }
 
-    .icon-heart:before {
+    .iconx-heart:before {
       content: "\E823"
     }
 
-    .icon-pen:before {
+    .iconx-pen:before {
       content: "\E824"
     }
 
@@ -11237,7 +11237,7 @@
     }
 
     #editor-modal[data-is-orientation-landscape=false][data-is-large-mode=false] h1.modal-title {
-      /* background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/sprites/stickerapp.png); */
+      background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/sprites/stickerapp.png);
       background-position: 0 0;
       background-size: 90px;
       height: 28px;
@@ -11831,27 +11831,27 @@
       width: 100%
     }
 
-    .tool-content-cutline i.svg-cutline.icon-small {
+    .tool-content-cutline i.svg-cutline.iconx-small {
       background: 50% url(https://d6ce0no7ktiq.cloudfront.net/images/svg/small_outline_icon.svg) no-repeat
     }
 
-    .tool-content-cutline i.svg-cutline.icon-medium {
+    .tool-content-cutline i.svg-cutline.iconx-medium {
       background: 50% url(https://d6ce0no7ktiq.cloudfront.net/images/svg/medium_outline_icon.svg) no-repeat
     }
 
-    .tool-content-cutline i.svg-cutline.icon-large {
+    .tool-content-cutline i.svg-cutline.iconx-large {
       background: 50% url(https://d6ce0no7ktiq.cloudfront.net/images/svg/large_outline_icon.svg) no-repeat
     }
 
-    .tool-content-cutline i.svg-cutline.icon-square {
+    .tool-content-cutline i.svg-cutline.iconx-square {
       background: 50% url(https://d6ce0no7ktiq.cloudfront.net/images/svg/square_icon.svg) no-repeat
     }
 
-    .tool-content-cutline i.svg-cutline.icon-circle {
+    .tool-content-cutline i.svg-cutline.iconx-circle {
       background: 50% url(https://d6ce0no7ktiq.cloudfront.net/images/svg/circle_icon.svg) no-repeat
     }
 
-    .tool-content-cutline i.svg-cutline.icon-rect-round {
+    .tool-content-cutline i.svg-cutline.iconx-rect-round {
       background: 50% url(https://d6ce0no7ktiq.cloudfront.net/images/svg/rounded_icon.svg) no-repeat
     }
 
@@ -11957,7 +11957,7 @@
     }
 
     .tool-pane .panel.panel-tool-content .tool-content.tool-content-backside-print-deal-text .deal-pattern-example {
-      /* background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/editor/stickerapp_pattern.png); */
+      background-image: url(https://d6ce0no7ktiq.cloudfront.net/images/web/editor/stickerapp_pattern.png);
       background-size: cover;
       height: 100px;
       width: 100%
@@ -12850,7 +12850,7 @@
       padding: 6px 15px
     }
 
-    body.editor .navbar-brand #logo .icon {
+    body.editor .navbar-brand #logo .iconx {
       background-size: 90px;
       height: 27px;
       width: 60px
@@ -12913,7 +12913,7 @@
       font-size: 12px
     }
 
-    div.editor .note-wrapper .icon-info {
+    div.editor .note-wrapper .iconx-info {
       font-size: 20px
     }
 
@@ -13128,7 +13128,7 @@
       text-transform: uppercase
     }
 
-    div.editor-orientation-portrait .editor-header .btnxxxxxxx-save .btnxxxxxxx-success .icon-cart,
+    div.editor-orientation-portrait .editor-header .btnxxxxxxx-save .btnxxxxxxx-success .iconx-cart,
     div.editor-orientation-portrait .editor-header .btnxxxxxxx-save-case,
     div.editor-orientation-portrait .editor-header .btnxxxxxxx-save-skin,
     div.editor-orientation-portrait .editor-header .btnxxxxxxx-save-sticker {
@@ -13868,7 +13868,7 @@
       height: 130px
     }
 
-    div.editor-orientation-portrait .tool-pane .tool-material-preset .icon-drop-up {
+    div.editor-orientation-portrait .tool-pane .tool-material-preset .iconx-drop-up {
       display: none
     }
 
@@ -14392,7 +14392,7 @@
       padding: 5px 22px 2px 16px
     }
 
-    div.editor-orientation-landscape .tool-pane .footer .btnxxxxxxx-save .icon-cart {
+    div.editor-orientation-landscape .tool-pane .footer .btnxxxxxxx-save .iconx-cart {
       font-size: 24px;
       position: relative;
       top: -2px
@@ -15710,7 +15710,7 @@
         padding: 15px
       }
 
-      .editor #logo .icon {
+      .editor #logo .iconx {
         margin-top: 3px
       }
 
@@ -15734,7 +15734,7 @@
         margin: 0
       }
 
-      .editor #logo .icon {
+      .editor #logo .iconx {
         margin-top: 3px
       }
 
